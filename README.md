@@ -8,11 +8,10 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Matey-Tsilov&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hi there, I am Matey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
-### :woman_technologist: &nbsp;About Me :
+---
+### :man_technologist: &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria.
 
@@ -29,7 +28,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" title="Jest" alt="Jest" width="60" height="60"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="Nodejs" alt="Nodejs" width="60" height="60"/>&nbsp;
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" title="Express" alt="Express" width="60" height="60"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" title="Express" alt="Express" width="60" height="60"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" title="nextjs" alt="nextjs" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="60" height="60"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" title="Dotnet" alt="dotnet" width="60" height="60"/>&nbsp;
@@ -41,14 +40,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VSC" **alt="VSC" width="60" height="60"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" title="VS" **alt="VS" width="60" height="60"/>&nbsp;
- 
 </p>
 
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Matey-Tsilov&theme=shades-of-purple&border_radius=5)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matey-Tsilov&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; flex-direction: row; justify-content: center;">
+ <img src="https://streak-stats.demolab.com?user=Matey-Tsilov&theme=shades-of-purple&border_radius=5" />
+ &nbsp;
+ &nbsp;
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matey-Tsilov&layout=compact&theme=shades-of-purple"/>
+</div>
 
 ---
