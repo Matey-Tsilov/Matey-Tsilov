@@ -45,11 +45,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-<div style="display: flex; flex-direction: row; justify-content: center;">
- <img style="height: auto; width: 40%;" src="https://streak-stats.demolab.com?user=Matey-Tsilov&theme=shades-of-purple&border_radius=5" />
+<div style="align: center; dir: auto;">
+ <img style="" src="https://streak-stats.demolab.com?user=Matey-Tsilov&theme=shades-of-purple&border_radius=5" />
  &nbsp;
  &nbsp;
- <img style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matey-Tsilov&layout=compact&theme=shades-of-purple"/>
+ &nbsp;
+ <img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matey-Tsilov&layout=compact&theme=shades-of-purple"/>
 </div>
 
 ---
